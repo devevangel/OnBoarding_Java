@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OnBoarding_Java</string>
+
+
+    <string name="One">TextView1</string>
+    <string name="Two">TextView2</string>
+    <string name="Three">TextView3</string>
+    <string name="Swipe">swipe right</string>
+    <string name="Get">Get Started</string>
+
+</resources>
